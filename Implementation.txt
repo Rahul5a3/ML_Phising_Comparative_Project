@@ -1,0 +1,27 @@
+The Project folder contains 3 sub folders namely
+1)Audio Phishing
+2)email phishing
+3)URL phishing
+
+Every folder contains .ipynb code and their respective dataset(s) and processed datasets.
+
+Implementation of Audio Phishing code:
+
+step 1: upload the MLProject_AudioPhishing.ipynb file in jupyter notebook or Google collab
+step 2: upload metadata.csv, 28_000_Detailed_Phishing_Conversations_Dataset.csv, Conversation.csv, line_index_all.csv and 10_000_safe_Conversations_Dataset.csv
+step 3: run the code.
+
+
+Implementation of Email phishing code:
+
+step 1: upload the Email_phishing.ipynb file in jupyter notebook or Google collab
+step 2: upload spam.csv, spam_ham_dataset.csv and cleaned_sms.csv
+step 3: Run code
+
+
+Implementation of URL phishing code:
+
+step 1: upload the URLPhishing.ipynb file in jupyter notebook or Google collab
+step 2: upload urldataset.csv
+step 3: Run code
+
